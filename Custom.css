@@ -1,0 +1,38 @@
+h1
+{
+	text-align:center;
+	text-decoration: underline;
+	font-weight:bold;
+}
+
+body
+{
+
+	background-image:url("Images/photofunky.gif");
+	background-size:cover;
+	font-size:1.2em;
+	font-family:Verdana;
+}
+#block
+{
+	width: 900px;
+	margin:0 auto;
+	background-image:url("Images/photofunky.gif");
+	background-size:cover;
+	text-align:center;
+	align-content:center;
+
+}
+ul li
+{
+	list-style-type:none;
+}
+a:visited
+{
+	color:white;
+}
+a:hover
+{
+	text-decoration:underline;
+	color:grey;
+}
